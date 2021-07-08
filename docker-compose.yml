@@ -5,7 +5,7 @@ services:
     image: drakkarsoftware/octobot:stable
     environment:
       - VIRTUAL_HOST=${HOST}
-      - VIRTUAL_PORT=5001
+      - VIRTUAL_PORT=5002
       - SELF_SIGNED_HOST=${HOST}
     volumes:
        - ./logs:/octobot/logs

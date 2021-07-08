@@ -19,4 +19,4 @@ Web
 
 
 * ``ENV_WEB_ADDRESS`` overrides the host IP address, can be set to ``0.0.0.0`` to accept all incoming connections.
-* ``ENV_WEB_PORT`` overrides the default web port (5001).
+* ``ENV_WEB_PORT`` overrides the default web port (5002).
